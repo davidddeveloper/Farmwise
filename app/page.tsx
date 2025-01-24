@@ -44,7 +44,7 @@ export default function LandingPage() {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                    Specialized AI for all Farmers & Aspiring Farmers
+                    Specialized AI for all Farmers &amp; Aspiring Farmers
                   </h1>
                   <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
                     Empowering farmers with cutting-edge AI solutions for optimized agriculture. Know what to plant,
