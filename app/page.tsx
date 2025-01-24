@@ -1,10 +1,11 @@
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
+
+//Brain,
+//Languages,
 import {
   Leaf,
-  Brain,
-  Languages,
   Sprout,
   Users,
   BarChart3,
